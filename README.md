@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock-analysis
 Performing analysis on green stocks
 # Message box pops up when open
 Message box pops up when open
