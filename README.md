@@ -4,5 +4,5 @@ Performing analysis on green stocks
 Message box pops up when open
 ### All stock analysis
 Added buttons, analysis by yearValue
-# Challeng
+# Challenge
 Refactored code
